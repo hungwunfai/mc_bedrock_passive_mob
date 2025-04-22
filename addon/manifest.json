@@ -1,0 +1,22 @@
+{
+	"format_version": 2,
+	"header": {
+		"name": "Bouncyriceball's Passive Mobs",
+		"description": "Makes all mobs not hostile to players.",
+		"uuid": "5675289e-7afc-44eb-921a-403c06d756c9",
+		"version": [1, 0, 0],
+		"min_engine_version": [1, 16, 0]
+	},
+	"metadata": {
+	},
+	"modules": [
+		{
+			"description": "Behavior",
+			"version": [1, 0, 0],
+			"uuid": "e199111f-bb5c-4e82-86a2-5d8b7c7cc7cb",
+			"type": "data"
+		}
+	],
+	"dependencies": [
+	]
+}
